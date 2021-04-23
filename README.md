@@ -1,5 +1,5 @@
 ### Hello there 👋, I am Tomiwa Tommy
-
+### I am open for opportunities as a frontend developer
 <!--
 **tomiwaolawonuola/tomiwaolawonuola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
